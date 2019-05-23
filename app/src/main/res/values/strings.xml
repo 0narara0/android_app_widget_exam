@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">android_app_widget_exam</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>
